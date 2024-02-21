@@ -1,0 +1,13 @@
+#container{
+    padding:20px;
+    margin:5%;
+    border:solid 2px;
+    border-color:blue;
+
+}
+#container2{
+    padding:20px;
+    border-color:blue;
+    border:solid 2px;
+    margin:5%;
+}
